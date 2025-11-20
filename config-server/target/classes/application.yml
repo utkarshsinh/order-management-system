@@ -5,9 +5,10 @@ spring:
   application:
     name: config-server
 
+  profiles:
+    active: native
   cloud:
     config:
       server:
-        git:
-          uri: https://github.com/utkarshsinh/config-repo.git
-          clone-on-start: true
+        native:
+          search-locations: file://${user.home}/InterviewPreparation/order-management-system/config-data

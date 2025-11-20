@@ -1,1 +1,7 @@
 /Users/utkarshsinh/InterviewPreparation/order-management-system/auth-service/src/main/java/com/oms/authservice/AuthServiceApplication.java
+/Users/utkarshsinh/InterviewPreparation/order-management-system/auth-service/src/main/java/com/oms/authservice/repository/UserRepository.java
+/Users/utkarshsinh/InterviewPreparation/order-management-system/auth-service/src/main/java/com/oms/authservice/dto/SignupRequest.java
+/Users/utkarshsinh/InterviewPreparation/order-management-system/auth-service/src/main/java/com/oms/authservice/config/SecurityBeansConfig.java
+/Users/utkarshsinh/InterviewPreparation/order-management-system/auth-service/src/main/java/com/oms/authservice/entity/User.java
+/Users/utkarshsinh/InterviewPreparation/order-management-system/auth-service/src/main/java/com/oms/authservice/service/AuthService.java
+/Users/utkarshsinh/InterviewPreparation/order-management-system/auth-service/src/main/java/com/oms/authservice/controller/AuthController.java

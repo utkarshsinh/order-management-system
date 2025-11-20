@@ -1,1 +1,8 @@
+com/oms/authservice/entity/User.class
+com/oms/authservice/dto/SignupRequest.class
+com/oms/authservice/repository/UserRepository.class
+com/oms/authservice/entity/User$UserBuilder.class
+com/oms/authservice/service/AuthService.class
+com/oms/authservice/config/SecurityBeansConfig.class
 com/oms/authservice/AuthServiceApplication.class
+com/oms/authservice/controller/AuthController.class
